@@ -4,7 +4,7 @@ Having done some talks in the past, and wanting to do some more in the future, I
 
 <h2>The list</h2>
 <ul>
-<li>Random walks and markov chains. [here](https://github.com/alexmcinerny/lectures/blob/main/random_walks_presentation_handout.pdf)
+<li>Random walks and markov chains (slides, https://github.com/alexmcinerny/lectures/blob/main/random_walks_presentation_handout.pdf)
 <li>Quantum Field Theory: What is a particle?
 <li>Schrodingers equation: How can you have a matter wave without a wave equation?
 <li>The Plank Length: Two electrons and how to make a black hole.
