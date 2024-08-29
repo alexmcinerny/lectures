@@ -3,13 +3,18 @@
 Having done some talks in the past, and wanting to do some more in the future, I thought I'd make a list of those I've already completed, adding slides/scripts where possible. 
 
 ## Talks completed at univesrity:
+
+Nicely LaTeX-ed, and at a higher level than the presentations I did at school, these are the presentations I'm more proud of. 
+
 - **Random walks and markov chains.** (Febuary 2024)
   - I researched the simple symetric random walk, and why for an infinite runtime, in 2 dimensions it's garenteed to pass through the origin an infinite number times (recurrent) whereas in 3 dimensions the walk has a chance to not pass through the starting point once (transient). I proved it mathematically, then tried to gauge intutiton as to why the result made sense.
   - See [slides](https://github.com/alexmcinerny/lectures/blob/main/random_walks_presentation_handout.pdf), and a very rough [script](https://github.com/alexmcinerny/lectures/blob/main/random_walks_script.pdf) (it's also a somewhat unfinished script--I used it as a guidline for the technical stuff, and then perfected the script in my head by practice!).
 
 
-## Talks done during school
-(These talks are, admitidly, a little less professional/rigorous/_truthful_--they're targetted to an audience of A-level students, not undergraduate physicsts!)
+## Talks completed during school:
+
+These talks are, admitidly, a little less professional/rigorous/_truthful_--they're targetted to an audience of A-level students, not undergraduate physicsts!
+
 - **Quantum Field Theory: What is a particle?** (September 2021)
   - A (very) hand wavy start to particle physics, which didn't really envolve any QFT, but did envolve a lot of important techniques which I came to learn in 1st year of univesrity, so was definitly worth it!
   - [Slides](https://github.com/alexmcinerny/lectures/blob/main/QFT%20What%20is%20a%20Particle%20Sci%20Soc%20Handout%20-%20Alex%20McInerny%20-%200521.pdf) are there, and also [here's](https://github.com/alexmcinerny/lectures/blob/main/Article%20on%20QFT%20for%20science%20journal%20-%20Alex%20McInerny%20-%200921.pdf) an article I wrote for my school's science magazine, addapted from the script.
